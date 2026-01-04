@@ -1,0 +1,26 @@
+{
+  "manifest_version": 3,
+  "name": "Air Canada Display Multi Cabin Percent",
+  "version": "1.0",
+  "description": "Forces mixed cabin percentage divs to display on Air Canada.",
+  "icons": {
+    "128": "icon128.png"
+  },
+  "permissions": [
+    "activeTab"
+  ],
+  "host_permissions": [
+    "*://*.aircanada.com/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "*://*.aircanada.com/*"
+      ],
+      "js": [
+        "content.js"
+      ],
+      "run_at": "document_idle"
+    }
+  ]
+}
