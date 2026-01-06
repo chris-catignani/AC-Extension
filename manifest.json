@@ -6,16 +6,10 @@
   "icons": {
     "128": "icon128.png"
   },
-  "permissions": [
-    "activeTab"
-  ],
-  "host_permissions": [
-    "*://*.aircanada.com/*"
-  ],
   "content_scripts": [
     {
       "matches": [
-        "*://*.aircanada.com/*"
+        "https://www.aircanada.com/*"
       ],
       "js": [
         "content.js"
