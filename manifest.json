@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
   "name": "Air Canada Display Multi Cabin Percent",
-  "version": "1.0",
-  "description": "Forces mixed cabin percentage divs to display on Air Canada.",
+  "version": "1.1",
+  "description": "Always display the multi cabin percent for Air Canada Aeroplan award redemptions",
   "icons": {
     "128": "icon128.png"
   },
