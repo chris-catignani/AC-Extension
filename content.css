@@ -1,0 +1,7 @@
+.mixed-cabin-percentage.on-hover {
+  display: block !important;
+}
+
+.available-cabin {
+  grid-template-areas: "cabin" "price" "price-note" "mixed-cabin-percent" !important;
+}
