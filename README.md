@@ -1,8 +1,8 @@
 # Air Canada Display Multi Cabin Percent
 
-A Chrome extension that always shows the mixed cabin percentage on Air Canada Aeroplan award search results. No hovering required.
+A browser extension that always shows the mixed cabin percentage on Air Canada Aeroplan award search results. No hovering required.
 
-[**Install from the Chrome Web Store**](https://chromewebstore.google.com/detail/air-canada-display-multi/eibgcbpgbbpghjgnhkanjgmicecgjdmf)
+[**Install from the Chrome Web Store**](https://chromewebstore.google.com/detail/air-canada-display-multi/eibgcbpgbbpghjgnhkanjgmicecgjdmf) | [**Install from Firefox Add-ons**](https://addons.mozilla.org/en-US/firefox/addon/air-canada-multi-cabin-percent/)
 
 ## What it does
 
