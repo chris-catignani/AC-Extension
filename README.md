@@ -14,4 +14,4 @@ When booking Aeroplan awards, Air Canada shows a "X% in Business Class" or "X% i
 
 Air Canada's own CSS already renders the label and assigns it a grid area, it's just hidden behind an `on-hover` display rule. The extension injects two CSS rules to make it always visible.
 
-The first version used Javascript to alter the CSS. It has been since updated to just use raw CSS (Thanks Claude!)
+The first version used Javascript to alter the CSS. It has since been updated to use pure CSS.
